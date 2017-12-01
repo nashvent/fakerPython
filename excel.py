@@ -27,7 +27,7 @@ worksheet = workbook.add_worksheet()
     #phone=fake.phone_number()
     #row = name + "," + company+","+address+","+phone+ "\n"
     #csv.write(row)
-tarjetas=['Visa','Mastercard','American Express','Diners Club']
+tarjetas=['Visa','Mastercard']
 ciudad=['AMAZONAS','ÁNCASH','APURÍMAC','AREQUIPA','AYACUCHO','CAJAMARCA','CUSCO','HUANCAVELICA','HUÁNUCO','ICA','JUNÍN','LA LIBERTAD','LAMBAYEQUE','LIMA','LORETO','MADRE DE DIOS','MOQUEGUA','PASCO','PIURA','PUNO','SAN MARTÍN','TACNA','TUMBES','UCAYALI']
 
 meses=['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre']
